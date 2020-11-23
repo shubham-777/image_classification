@@ -1,2 +1,5 @@
 # image_classification
-Identifying the Digits using Image Classification
+## Handwritten Digits Classification
+> ***handwritten_digit_classification.ipynb*** => google collab notebook for preprocessing and training model
+> ***handwritten_digit_classification_predict.ipynb*** => google collab notebook for inferencing on sample image
+
